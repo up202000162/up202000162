@@ -7,7 +7,7 @@
 #### I’m currently...
 - 🔭 doing an internship at PPN Tecnologia;
 - 🌱 learning Java and SAS programming language;
-- 💡  learning how the blockchain works and how to implement my own project in the cryptoworld;
+- 💡  learning how blockchain works and how to implement my own project in the cryptoworld;
 
 <div align="left">
   <a href="https://github.com/up202000162">
