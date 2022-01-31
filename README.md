@@ -9,11 +9,10 @@
 - 🌱 learning Java and SAS programming language;
 - 💡  learning how the blockchain works and how to implement my own project in the cryptoworld;
 
-<div align="left">
-  <a href="https://github.com/up202000162">
-  <img height="300em" width="400" src="https://github-readme-stats.vercel.app/api?username=up202000162&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="300em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=up202000162&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![up202000162 GitHub stats](https://github-readme-stats.vercel.app/api?username=up202000162&theme=dark)](https://github.com/up202000162/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=up202000162&theme=dark)](https://github.com/up202000162/github-readme-stats)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
