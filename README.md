@@ -11,8 +11,8 @@
 
 <div align="left">
   <a href="https://github.com/up202000162">
-  <img height="230em" width="400" src="https://github-readme-stats.vercel.app/api?username=up202000162&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="230em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=up202000162&layout=compact&langs_count=7&theme=dark"/>
+  <img height="300em" width="400" src="https://github-readme-stats.vercel.app/api?username=up202000162&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="300em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=up202000162&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
