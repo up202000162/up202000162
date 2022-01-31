@@ -1,7 +1,7 @@
 ### Hi there! 👋  I'm Igor Diniz and I'm glad you're here. 😃
 
 <div>
-   <img align="right" style="vertical-align: top" alt="Igor-pic" height="90" width="220" style="border-radius:50px;" src="welcome.gif">
+   <img align="right" style="vertical-align: top" alt="Igor-pic" height="70" width="190" style="border-radius:50px;" src="welcome.gif">
   </div>
 
 #### I’m currently...
@@ -19,7 +19,7 @@
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img align="right" style="vertical-align: " alt="Igor-pic" height="110" width="130" style="border-radius:50px;" src="diCaprio.gif">
+  <img align="right" style="vertical-align: " alt="Igor-pic" height="90" width="110" style="border-radius:50px;" src="diCaprio.gif">
 </div>
   
   ##
