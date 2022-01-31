@@ -1,15 +1,12 @@
 ### Hi there! 👋  I'm Igor Diniz and I'm glad you're here. 😃
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### I’m currently...
+- 🔭 doing an internship at PPN Tecnologia.
+- 🌱 learning Java and SAS programming language.
+- 💡 learning how the blockchain works and how to implement my own project in the cryptoworld.
+<div>
+   <img align="right" style="vertical-align: top" alt="Igor-pic" height="80" width="150" style="border-radius:50px;" src="welcome.gif">
+  </div>
 
 <div align="left">
   <a href="https://github.com/up202000162">
@@ -21,7 +18,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   
