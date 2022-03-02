@@ -7,7 +7,7 @@
 #### I’m currently...
 - 🔭 doing an internship at PPN Tecnologia;
 - 🌱 learning SAS programming language;
-- 💡  learning how blockchain works and how to implement my own project in the cryptoworld;
+- 💡  studying about AI and Machine Learning;
 
 <div align="left">
   <a href="https://github.com/igor-diniz">
