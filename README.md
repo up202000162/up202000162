@@ -7,7 +7,7 @@
 #### I’m currently...
 - 🔭 doing an internship at PPN Tecnologia;
 - 🌱 learning SAS programming language;
-- 💡  studying about AI and Machine Learning;
+- 💡  studying AI and Machine Learning;
 
 <div align="left">
   <a href="https://github.com/igor-diniz">
